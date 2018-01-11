@@ -1,0 +1,149 @@
+.contenant{
+	display: flex;
+	flex-direction:row;
+}
+
+.div_gauche{
+	background :#14B8FE;
+	color: #FFFFFF;
+}
+
+ #photo_du_cv{
+	padding-left: 20%;
+	padding-top: 10%;
+}
+/* etatcivil_____________________________________________*/
+.etat_civil{
+	padding-top: 25%;
+}
+
+.liste_icones{
+	display: flex;
+	flex-direction: column;
+	width: 10%;
+	padding-left: 5%;
+	padding-bottom: 2%;
+	padding-right: 13%;
+}
+
+.les_icones{
+	display: flex;
+	flex-direction: row;
+}
+
+#ico_1{
+	padding-top: 52%;
+	padding-bottom: 43%;
+}
+
+#ico_2, #ico_3, #ico_4, #ico_5{
+	padding-bottom: 53%;
+}
+
+/*reseaux sociaux_________________________________________________*/
+
+.linkedin_logo{
+	width: 60px;
+	height: 60px;
+}
+
+.github_logo{
+	width: 40px;
+	height: 39px;
+	margin-bottom: 11px;
+}
+
+.facebook_logo{
+	width: 60px;
+	height: 60px;
+
+}
+
+/*LANGAGES/TECHNO: ___________________________________________________*/
+#puzzle{
+	width: 20%;
+	padding-left: 40%;
+	padding-top: 40%;
+}
+
+/* Div-droite COMPETENCE,PROJETS,FORMATIONS,EXP.PRO HOBBIES_______________________________________________________*/
+.gros_titre{
+	color :#14B8FE;
+}
+
+.titres h1{
+	text-align: center;
+}
+.div_droite{
+	padding-left: 50px;
+}
+
+.familles{
+	display: flex;
+	flex-direction:row;
+}
+
+.f2{
+	padding-left: 50px;
+}
+
+.liste1, .liste2, li {
+	display: block;
+	float: left;
+	justify-content: flex-end;
+		
+}
+
+
+li {
+	margin-left: 30px
+}
+
+ #img_f{
+	width: 41px;
+	padding-left: 70%;
+}
+
+#img_p{
+	width: 41px;
+	padding-left: 75%;
+}
+
+#img_ep{
+	width: 41px;
+	padding-left: 82%;
+}
+
+#img_h{
+	width: 41px;
+	padding-left: 82%;
+}
+
+
+.projets img{
+	width: 41px;
+}
+
+.exp_pro img{
+	width: 41px;
+}
+
+.hobbies img {
+	width: 41px;
+}
+
+.paragraphe1 {
+	padding-right: 25%;
+}
+
+.paragraphe2 {
+	padding-right: 25%;
+}
+
+.paragraphe3 {
+	padding-right: 25%;
+}
+
+.competences img{
+	width: 5%;
+}
